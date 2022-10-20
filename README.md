@@ -10,6 +10,6 @@ javac "ProgramStack.java"       // java compiler
 java "ProgramStack.java"        // run java program
 ```
 
-## Preview Program at YouTube
+## Preview Program
 <img src="/Assets/Thumbnail.PNG" alt="Watch the video" herf="https://youtu.be/fV3YFl518GI" width="500"/>
-
+- Preview at Youtube : https://youtu.be/fV3YFl518GI/
