@@ -1,4 +1,7 @@
 # Program-Stack-Java
+Kelas java.util.Stack mewakili tumpukan objek terakhir-masuk-pertama-keluar (LIFO).
+- Saat tumpukan pertama kali dibuat, tumpukan tidak berisi item.
+- Di kelas ini, elemen terakhir yang disisipkan diakses terlebih dahulu
 
 ## Installation
 ```sh
